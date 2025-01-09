@@ -15,3 +15,6 @@ git push
 
 Vaata ka minu konspekti WP-portfoolios: <a href="https://mariasmolina24.thkit.ee/wp/" target="_blank">WP link</a>
 This site was built using [GitHub Pages](https://pages.github.com/).
+
+![image](https://github.com/user-attachments/assets/8d340bc6-2622-46e3-8752-67ee6e78185f)
+
