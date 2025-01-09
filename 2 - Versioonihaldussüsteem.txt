@@ -3,3 +3,7 @@
 1. Mida tähendab "commit" operatsioon versioonihalduses?
 2. Mis on GitHub ja kuidas seda kasutatakse tarkvara arenduses?
 3. Miks on oluline kasutada harusid (branches) Gitis?
+ 
+1. "Commit" operatsioon salvestab muudatused lokaalselt versioonihaldussüsteemis koos sõnumiga, mis kirjeldab tehtud muudatusi.
+2. GitHub on platvorm koodirepositooriumite haldamiseks ja koostööks, mida kasutatakse tarkvara arendamisel koodi jagamiseks, versioonihalduseks ja meeskonnatööks.
+3. Harud (branches) võimaldavad arendajatel töötada paralleelselt erinevate funktsioonide või paranduste kallal ilma põhikoodi häirimata.
