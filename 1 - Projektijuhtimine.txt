@@ -1,5 +1,10 @@
 -- Projektijuhtimise küsimused --
 
 1. Miks on tähtis projektide planeerimine?
+Projektide planeerimine aitab tagada eesmärkide saavutamise, ajakava järgimise ja ressursside efektiivse kasutamise.
+
 2. Kirjelda erinevaid projekteerimise etappe
+Projektide etapid on ideede kogumine, planeerimine, arendamine, testimine ja lõppviimistlus.
+
 3. Millised programmid on projekti käivitamiseks mugavad?
+Projekti käivitamiseks on mugavad programmid nagu Trello, Asana, Microsoft Project ja Jira.
