@@ -1,0 +1,5 @@
+--- Versioonihaldussüsteemi kohta küsimused ---
+
+1. Mida tähendab "commit" operatsioon versioonihalduses?
+2. Mis on GitHub ja kuidas seda kasutatakse tarkvara arenduses?
+3. Miks on oluline kasutada harusid (branches) Gitis?
