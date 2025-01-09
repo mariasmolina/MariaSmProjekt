@@ -1,5 +1,8 @@
 --- Linux käsurida küsimused ---
 
 1.  Kuidas muuta faili lugemis-, kirjutamis- ja täitmisõigusi kasutajale?
+Kasutades käsku chmod, näiteks chmod u+rwx failinimi.
 2.  Mis tähendab "sudo su"?
+See käsk annab administraatori õigused ja logib sisse juurkasutajana.
 3.  Kuidas luua kasutajat Linuxis?
+Kasutades käsku sudo useradd -m uus_kasutaja ja määrates parooli sudo passwd uus_kasutaja.
