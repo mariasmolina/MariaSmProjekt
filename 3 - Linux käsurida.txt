@@ -3,3 +3,7 @@
 1.  Kuidas muuta faili lugemis-, kirjutamis- ja täitmisõigusi kasutajale?
 2.  Mis tähendab "sudo su"?
 3.  Kuidas luua kasutajat Linuxis?
+
+1 Faili lugemis-, kirjutamis- ja täitmisõigusi saab muuta käsuga chmod koos vastavate õiguste määramise süntaksiga.
+2 "sudo su" annab ajutise juurkasutaja õiguste kasutamise võimaluse.
+3 Kasutaja loomiseks Linuxis kasutatakse käsku adduser või useradd.
