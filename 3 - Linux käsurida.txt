@@ -1,0 +1,5 @@
+--- Linux käsurida küsimused ---
+
+1.  Kuidas muuta faili lugemis-, kirjutamis- ja täitmisõigusi kasutajale?
+2.  Mis tähendab "sudo su"?
+3.  Kuidas luua kasutajat Linuxis?
