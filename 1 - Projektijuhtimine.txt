@@ -3,3 +3,7 @@
 1. Miks on tähtis projektide planeerimine?
 2. Kirjelda erinevaid projekteerimise etappe
 3. Millised programmid on projekti käivitamiseks mugavad?
+
+1 Projektide planeerimine tagab selged eesmärgid, ressursside tõhusa kasutamise ja riskide ennetamise.
+2 Projekteerimise etapid on algatamine, planeerimine, teostamine, monitoorimine ja lõpetamine.
+3 Sobivad programmid on Trello, Asana, Microsoft Project, Jira, Notion ja Monday.com.
