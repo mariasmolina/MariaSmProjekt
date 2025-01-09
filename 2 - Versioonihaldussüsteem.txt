@@ -1,5 +1,8 @@
 --- Versioonihaldussüsteemi kohta küsimused ---
 
 1. Mida tähendab "commit" operatsioon versioonihalduses?
+"Commit" salvestab muudatused kohalikku Git-repositooriumisse, luues uue versiooni ja annab selle kohta kirjelduse.
 2. Mis on GitHub ja kuidas seda kasutatakse tarkvara arenduses?
+GitHub on veebipõhine platvorm, mis võimaldab hallata Git-repositooriume, teha koostööd arendajate meeskondadega ja hoida tarkvara versioone.
 3. Miks on oluline kasutada harusid (branches) Gitis?
+Harud võimaldavad töötada eri funktsioonide või paranduste kallal iseseisvalt, ilma et need mõjutaksid põhikoode (master branch).
