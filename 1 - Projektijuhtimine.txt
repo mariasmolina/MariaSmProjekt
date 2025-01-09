@@ -1,0 +1,5 @@
+-- Projektijuhtimise küsimused --
+
+1. Miks on tähtis projektide planeerimine?
+2. Kirjelda erinevaid projekteerimise etappe
+3. Millised programmid on projekti käivitamiseks mugavad?
