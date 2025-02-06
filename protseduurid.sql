@@ -114,7 +114,7 @@ SELECT * FROM uudised;
 END;
 
 CALL lisaUudis ('windows 11', '2025-02-06', 'õpetaja Pant', 'w11 ei tööta multimeedia klassis');
----
+---protseduuride
 
 
 
